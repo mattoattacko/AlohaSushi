@@ -73,7 +73,7 @@
   margin-left: 32px;
 }
 
-about-us__content {
+.about-us__content {
   flex: 1; /* since this is set to 1, and the 'about-us__image div' is also set to 1, they will each take 50% of the available space. */
   display: flex;
   justify-content: center;
