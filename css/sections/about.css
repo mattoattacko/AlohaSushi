@@ -50,6 +50,7 @@
 .about-us__button {
   position: absolute;
   right: 0;
+  top: 45%;
 
   padding: 12px 32px;
   min-height: 64px;
